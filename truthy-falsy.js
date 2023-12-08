@@ -1,4 +1,4 @@
-let ch="jsh";
+let ch=0;
 if(ch){
     console.log('done');
 

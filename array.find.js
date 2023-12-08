@@ -40,4 +40,15 @@
 // console.log(num);
 
 // array map()
-let num=[1,2,3,4,5];
+// let num =[1,2,3,4,5];
+// var result=num.map((n)=>{
+//     return 2*n;
+// });
+// console.log(result);
+
+// array reduce()
+// let num=[1,2,3,4,5];
+// let result=num.reduce((pvalue,cvalue,currenIndex,array)=>{
+//     return pvalue+cvalue;
+// },0);
+// console.log(result);
